@@ -3,8 +3,8 @@
     {
       "id": 1,
       "name": "Fried Chicken",
-      "userId": 1,
-      "categoryId": 1
+      "userId": 252,
+      "dinnerCategoryId": 1
     }
   ],
   "users": [
